@@ -1,0 +1,30 @@
+.form {
+    border: 2px solid white;
+    border-radius: 8px;
+    width: 375px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    align-items: center;
+    padding: 12px;
+    box-sizing: border-box;
+
+}
+
+.fieldWrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.formInput {
+    width: 320px;
+    height: 32px;
+}
+
+.formBtn {
+    width: 150px;
+}
+
+.formSpan {
+    color: brown;
+}

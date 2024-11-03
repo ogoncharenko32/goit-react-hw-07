@@ -1,0 +1,12 @@
+.searchWrapper {
+    display: flex;
+    flex-direction: column;
+    width: 375px;
+    margin-top: 12px;
+
+}
+
+.searchInput {
+    width: 375px;
+    height: 32px;
+}

@@ -1,0 +1,9 @@
+#root {
+  max-width: 1440px;
+  padding: 2rem;
+}
+
+
+ul, li {
+  list-style: none;
+}

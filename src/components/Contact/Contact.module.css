@@ -1,0 +1,24 @@
+.contactWrapper {
+    min-width: 320px;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid white;
+    border-radius: 8px;
+    margin-bottom: 8px;
+    padding: 12px;
+    align-items: center;
+}
+
+.delBtn {
+    width: 80px;
+    height: 40px;
+    padding: 4px;
+}
+
+.userInfo {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
